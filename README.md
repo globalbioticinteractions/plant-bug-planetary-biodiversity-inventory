@@ -1,3 +1,5 @@
+:warning: This archive configuration is no longer used and has been replaced with  https://github.com/globalbioticinteractions/arthropodEasyCaptureAMNH .
+
 # plant-bug-planetary-biodiversity-inventory
 This repository is a reference to the North American specimens from the Plant Bug Planetary Biodiversity Inventory Project PBI: Phytophagous Insects as a Model Group for Documenting Planetary Biodiversity (Insecta: Heteroptera: Miridae: Orthotylinae, Phylinae) project. The purpose is to make the archive available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org).
 
